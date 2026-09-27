@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# ML model files
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Dataset/cache
+SROIE2019/
